@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compumetrika</title>
-    <link>https://compumetrika.github.io/homepage/tags/main_pages/index.xml</link>
+    <link>https://compumetrika.github.io/tags/main_pages/index.xml</link>
     <description>Recent content on Compumetrika</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <atom:link href="https://compumetrika.github.io/homepage/tags/main_pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compumetrika.github.io/tags/main_pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Research</title>
-      <link>https://compumetrika.github.io/homepage/pages/backup_of_research/</link>
+      <link>https://compumetrika.github.io/pages/backup_of_research/</link>
       <pubDate>Wed, 15 Apr 2015 21:21:50 -0400</pubDate>
       
-      <guid>https://compumetrika.github.io/homepage/pages/backup_of_research/</guid>
+      <guid>https://compumetrika.github.io/pages/backup_of_research/</guid>
       <description>
 
 &lt;p&gt;This page is in progress &amp;ndash; actively being updated from a much older vintage!&lt;/p&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Research</title>
-      <link>https://compumetrika.github.io/homepage/pages/research/</link>
+      <link>https://compumetrika.github.io/pages/research/</link>
       <pubDate>Wed, 15 Apr 2015 21:21:50 -0400</pubDate>
       
-      <guid>https://compumetrika.github.io/homepage/pages/research/</guid>
+      <guid>https://compumetrika.github.io/pages/research/</guid>
       <description>
 
 &lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;

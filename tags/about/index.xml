@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compumetrika</title>
-    <link>https://compumetrika.github.io/homepage/tags/about/index.xml</link>
+    <link>https://compumetrika.github.io/tags/about/index.xml</link>
     <description>Recent content on Compumetrika</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <atom:link href="https://compumetrika.github.io/homepage/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://compumetrika.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://compumetrika.github.io/homepage/pages/about/</link>
+      <link>https://compumetrika.github.io/pages/about/</link>
       <pubDate>Wed, 15 Apr 2015 21:34:49 -0400</pubDate>
       
-      <guid>https://compumetrika.github.io/homepage/pages/about/</guid>
+      <guid>https://compumetrika.github.io/pages/about/</guid>
       <description>
 
 &lt;p&gt;Welcome to my personal homepage. I hold a PhD in &lt;a href=&#34;http://www.css.gmu.edu/&#34;&gt;Computational Social Science&lt;/a&gt; from George Mason University and currently currently work as a computational economist at the &lt;a href=&#34;https://www.financialresearch.gov/&#34;&gt;Office of Financial Research&lt;/a&gt; in the U.S. Treasury.*&lt;/p&gt;
@@ -45,11 +45,11 @@
 
 &lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
 
-&lt;p&gt;My &lt;a href=&#34;https://compumetrika.github.io/homepage/pages/research&#34;&gt;research page&lt;/a&gt; outlines my publications and work in progress.&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://compumetrika.github.io/pages/research&#34;&gt;research page&lt;/a&gt; outlines my publications and work in progress.&lt;/p&gt;
 
 &lt;h2 id=&#34;notebooks&#34;&gt;Notebooks&lt;/h2&gt;
 
-&lt;p&gt;My &lt;a href=&#34;https://compumetrika.github.io/homepage/pages/notebooks&#34;&gt;notebooks&lt;/a&gt; are a simple collection of ideas and resources, spanning a wide range to topics. These exist as a &amp;ldquo;scratchwork area&amp;rdquo; to store things I personally find useful or interesting. If you find them useful as well, excellent! (And if you feel anything useful is missing, feel free to send a reference.)&lt;/p&gt;
+&lt;p&gt;My &lt;a href=&#34;https://compumetrika.github.io/pages/notebooks&#34;&gt;notebooks&lt;/a&gt; are a simple collection of ideas and resources, spanning a wide range to topics. These exist as a &amp;ldquo;scratchwork area&amp;rdquo; to store things I personally find useful or interesting. If you find them useful as well, excellent! (And if you feel anything useful is missing, feel free to send a reference.)&lt;/p&gt;
 
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 
@@ -61,7 +61,7 @@
 
 &lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
 
-&lt;p&gt;My blog (which is updated infrequently) can be found &lt;a href=&#34;https://compumetrika.github.io/homepage/#blog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My blog (which is updated infrequently) can be found &lt;a href=&#34;https://compumetrika.github.io/#blog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
 
